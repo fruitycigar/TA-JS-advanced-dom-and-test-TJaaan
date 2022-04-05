@@ -9,3 +9,5 @@
 - You can use the image given below for help to understand.
 
 ![](./terms.png)
+
+<!-- Why must this be so confounding? -->
