@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+li {
+    list-style-type: square;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+blockquote {
+    font-size: 43.1px;
+    font-family: monospace;
+}
+
+cite {
+    padding-left: 40px;
+    font-size: 19px;
+}
