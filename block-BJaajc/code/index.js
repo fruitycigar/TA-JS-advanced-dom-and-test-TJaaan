@@ -27,6 +27,3 @@ module.exports = {
     getCircumference,
     getArea,
 }
-
-// Oh, really?
-// What now?
